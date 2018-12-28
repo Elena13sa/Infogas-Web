@@ -32,24 +32,24 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "5455DED8-0D4B-491F-9A09-A6D0361F2574"
+      "class": "group",
+      "id": "BA9AD996-A595-40E0-AEB9-07FB3243CCC5"
     },
     {
-      "class": "symbolInstance",
-      "id": "5E222374-B365-40CE-A9BD-3EFFD5BA9F12"
+      "class": "group",
+      "id": "E5AD16FE-7B8A-4124-ABA9-1A002C3A08C9"
     },
     {
-      "class": "symbolInstance",
-      "id": "F8FB6C97-98A5-49BD-938D-EF5B9AB5AB37"
+      "class": "group",
+      "id": "9923DE88-9E61-433F-9BFE-60519AC5AA10"
     },
     {
-      "class": "symbolInstance",
-      "id": "567641A8-AD5C-4062-AC2E-9A6E64421D79"
+      "class": "group",
+      "id": "BCC03BC9-1FC4-4115-94DB-85750BF97BC8"
     },
     {
-      "class": "symbolInstance",
-      "id": "CC0801DF-19D5-4263-94DC-2F464B4A52C3"
+      "class": "group",
+      "id": "96927F30-EAE3-4396-992E-4062C3398BB6"
     },
     {
       "class": "group",

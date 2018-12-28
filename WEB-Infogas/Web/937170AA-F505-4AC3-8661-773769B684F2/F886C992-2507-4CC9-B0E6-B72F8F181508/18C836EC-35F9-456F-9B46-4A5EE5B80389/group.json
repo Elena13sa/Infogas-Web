@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "18C836EC-35F9-456F-9B46-4A5EE5B80389",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 129,
+    "width": 400,
+    "x": 0,
+    "y": 549
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D53EB280-5368-44D8-8F5D-B48EF2209357"
+    },
+    {
+      "class": "text",
+      "id": "D6AA870C-A125-45E4-BC4C-EB56D9BD2876"
+    },
+    {
+      "class": "text",
+      "id": "539535A7-746B-4DF4-B064-2B558CD5FF25"
+    },
+    {
+      "class": "text",
+      "id": "CB54800C-B1B1-4321-A0F9-BC82164BB05A"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA248213-62ED-41DA-A6A7-E716943638E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "780912A3-68FF-40E2-AD6B-322C5AD82D9F"
+    },
+    {
+      "class": "group",
+      "id": "49C36F14-1720-4062-9AC6-F75AAB78AEE3"
+    }
+  ],
+  "name": "Control/Search Entity/Result/Grifo Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

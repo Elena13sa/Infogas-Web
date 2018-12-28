@@ -35,14 +35,14 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "D2CDCADF-5F49-41CC-850C-436F2006C103",
-      "overrideName": "B1116E5E-151C-407C-9201-22DBDBEBBF4C_stringValue",
+      "do_objectID": "65FAAFDD-9C36-489B-8C82-5D43DDC0C322",
+      "overrideName": "C51A5C0C-DA3D-437C-9C46-48DFE2C049E7_stringValue",
       "value": "/ Nosotros"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4DFA2448-A26C-4F14-95B8-06662D77370A",
-      "overrideName": "0CBF30C6-475A-4FF4-B7A0-ECF2845FD919_stringValue",
+      "do_objectID": "047584FA-AC6E-4E8D-86DF-F483091E1C50",
+      "overrideName": "9F104C7F-922E-4FED-BA09-7F04E36AC83A_stringValue",
       "value": "Nosotros"
     }
   ],
@@ -59,6 +59,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "76A0525F-2F22-42E5-9FE7-3CDF6D35314A",
+  "symbolID": "8176F297-F124-41DA-AEC9-FE863B51112B",
   "verticalSpacing": 0
 }

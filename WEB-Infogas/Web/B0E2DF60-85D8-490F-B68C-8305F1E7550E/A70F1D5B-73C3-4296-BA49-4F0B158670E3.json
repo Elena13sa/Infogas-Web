@@ -35,14 +35,14 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "8598AD6A-4780-43E1-8164-DF63B2701DF1",
-      "overrideName": "B1116E5E-151C-407C-9201-22DBDBEBBF4C_stringValue",
+      "do_objectID": "3E8E1AE1-7B52-47F8-B6F2-0484DBFEE65C",
+      "overrideName": "C51A5C0C-DA3D-437C-9C46-48DFE2C049E7_stringValue",
       "value": "/ CRPC"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "737EC9F4-B1C2-4DEA-BB54-982934D1DEB8",
-      "overrideName": "0CBF30C6-475A-4FF4-B7A0-ECF2845FD919_stringValue",
+      "do_objectID": "ABD7F999-E797-4A80-BBCC-FDF9FA3CACA9",
+      "overrideName": "9F104C7F-922E-4FED-BA09-7F04E36AC83A_stringValue",
       "value": "Centro de Revisión Periódica de Cilindros"
     }
   ],
@@ -59,6 +59,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "76A0525F-2F22-42E5-9FE7-3CDF6D35314A",
+  "symbolID": "8176F297-F124-41DA-AEC9-FE863B51112B",
   "verticalSpacing": 0
 }

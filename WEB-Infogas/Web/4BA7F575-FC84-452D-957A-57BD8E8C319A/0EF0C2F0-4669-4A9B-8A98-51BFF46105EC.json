@@ -33,12 +33,14 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "B1116E5E-151C-407C-9201-22DBDBEBBF4C_stringValue",
+      "do_objectID": "45F682D9-465E-4E94-AB84-52C673F114A3",
+      "overrideName": "C51A5C0C-DA3D-437C-9C46-48DFE2C049E7_stringValue",
       "value": "/ Estaciones GNV"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "0CBF30C6-475A-4FF4-B7A0-ECF2845FD919_stringValue",
+      "do_objectID": "222E8B28-A1DE-4CE4-87A5-CE9D51A19347",
+      "overrideName": "9F104C7F-922E-4FED-BA09-7F04E36AC83A_stringValue",
       "value": "Estaciones GNV"
     }
   ],
@@ -54,6 +56,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "76A0525F-2F22-42E5-9FE7-3CDF6D35314A",
+  "symbolID": "8176F297-F124-41DA-AEC9-FE863B51112B",
   "verticalSpacing": 0
 }

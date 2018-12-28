@@ -35,8 +35,8 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "0C3C1188-6772-41F8-8EF6-FF0E31213844",
-      "overrideName": "914494F8-843C-4BE1-983B-ACC9022988C2_stringValue",
+      "do_objectID": "F8F363D4-BDD0-4DC7-853F-F271EAE8CDCD",
+      "overrideName": "9B9999C4-A1DE-48AA-BE55-CEE0C3D828B1_stringValue",
       "value": "Entidades financieras"
     }
   ],
@@ -53,6 +53,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E381F1FE-6A23-4E7D-9532-A7BA264CFA3B",
+  "symbolID": "F78A0443-2E7F-458B-A61F-24C0CF2E456B",
   "verticalSpacing": 0
 }

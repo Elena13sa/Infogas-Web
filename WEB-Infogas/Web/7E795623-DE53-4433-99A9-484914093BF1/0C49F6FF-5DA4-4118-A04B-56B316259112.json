@@ -35,15 +35,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "737EC9F4-B1C2-4DEA-BB54-982934D1DEB8",
-      "overrideName": "0CBF30C6-475A-4FF4-B7A0-ECF2845FD919_stringValue",
-      "value": "Conoce el estado de tu vehículo"
+      "do_objectID": "11F422C2-FADA-4D48-89F0-5A388420B1D0",
+      "overrideName": "C51A5C0C-DA3D-437C-9C46-48DFE2C049E7_stringValue",
+      "value": "/ Estado de vehículo"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6EB1875D-87FB-47DB-89C2-8B79B39B2B79",
-      "overrideName": "B1116E5E-151C-407C-9201-22DBDBEBBF4C_stringValue",
-      "value": "/ Estado de vehículo"
+      "do_objectID": "5424930F-90DB-4C43-976C-F3D5271556D2",
+      "overrideName": "9F104C7F-922E-4FED-BA09-7F04E36AC83A_stringValue",
+      "value": "Conoce el estado de tu vehículo"
     }
   ],
   "resizingConstraint": 63,
@@ -59,6 +59,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "76A0525F-2F22-42E5-9FE7-3CDF6D35314A",
+  "symbolID": "8176F297-F124-41DA-AEC9-FE863B51112B",
   "verticalSpacing": 0
 }

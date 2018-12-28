@@ -32,8 +32,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "9C8EBAA7-AE9E-467A-A4D9-1492F8C827C8"
+      "class": "group",
+      "id": "1BABDB72-FE4D-4B9E-8803-D84BCD583B25"
     }
   ],
   "name": "Rectangle",

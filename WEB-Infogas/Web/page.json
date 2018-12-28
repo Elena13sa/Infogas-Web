@@ -157,50 +157,6 @@
       "id": "2FBB10C8-FB17-42CA-A3FA-EA8C0D11ACBC"
     },
     {
-      "class": "text",
-      "id": "FA662268-2BC4-44DF-A39A-90336C2F47EB"
-    },
-    {
-      "class": "text",
-      "id": "DC0B6BD8-670E-448A-8CB9-0367D3C5543B"
-    },
-    {
-      "class": "text",
-      "id": "28A5697E-FA7C-49C5-AEF7-A8D8FA279D0B"
-    },
-    {
-      "class": "text",
-      "id": "22377EAD-CA1F-4DEC-9572-1354731B6C79"
-    },
-    {
-      "class": "text",
-      "id": "C627F36B-02F1-474F-A565-A79560C13FCB"
-    },
-    {
-      "class": "text",
-      "id": "98BE213D-8F49-4E14-91C7-BB1493C75087"
-    },
-    {
-      "class": "text",
-      "id": "5E1F7BB8-330D-44D1-BB49-B464EE3A80BD"
-    },
-    {
-      "class": "text",
-      "id": "24A8F937-B920-4922-AD5C-6317059298C8"
-    },
-    {
-      "class": "text",
-      "id": "96970A3A-9064-47AE-A828-28A0A2F55A5C"
-    },
-    {
-      "class": "text",
-      "id": "AADE46DA-5DA7-4F14-BF20-1947A3D29889"
-    },
-    {
-      "class": "text",
-      "id": "A735C0C3-3A52-4008-B18E-37BF2AA2BEEB"
-    },
-    {
       "class": "artboard",
       "id": "3B60FFA4-341D-4AFB-AC95-E8CD6870BCAE"
     },
@@ -263,6 +219,10 @@
     {
       "class": "artboard",
       "id": "E6096984-162D-42E6-A7C9-78A35A0D60C9"
+    },
+    {
+      "class": "group",
+      "id": "C13DDEDD-EA7C-4347-9847-13C93BE3CCEF"
     }
   ],
   "name": "Web",
