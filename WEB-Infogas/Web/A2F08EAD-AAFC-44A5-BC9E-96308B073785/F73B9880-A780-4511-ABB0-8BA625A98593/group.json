@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F73B9880-A780-4511-ABB0-8BA625A98593",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87587E6F-FCA9-41A2-B5C0-EDAF25D51AEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "34C2C7B2-456A-449E-A19B-C6A238577BE7",
+    "height": 257,
+    "width": 506,
+    "x": 730,
+    "y": 1016
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4AB12FEA-9184-4046-BF4C-37A3C072885A"
+    },
+    {
+      "class": "bitmap",
+      "id": "199C1233-E345-48A0-B393-679D36FC7F62"
+    }
+  ],
+  "name": "Ecoamigable",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38439995-C893-41B7-8442-F2F3B2515B98",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

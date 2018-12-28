@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DAF60DEA-DA63-499A-8C0F-84BD24F2D631",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DBDE20DA-BAD0-4EE3-8C27-87E1A0130182",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04001640-A9C5-4495-A0DE-69DF50F33CD7",
+    "height": 117,
+    "width": 1440,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sub header 1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "446C3E07-6559-4DE4-A9CD-B4246A9C3FA9_stringValue",
+      "value": "/ Mapa de sitio"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F104C7F-922E-4FED-BA09-7F04E36AC83A_stringValue",
+      "value": "Mapa de sitio"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC6B43AF-FFFB-446D-BEB4-161BD15C235E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8176F297-F124-41DA-AEC9-FE863B51112B",
+  "verticalSpacing": 0
+}

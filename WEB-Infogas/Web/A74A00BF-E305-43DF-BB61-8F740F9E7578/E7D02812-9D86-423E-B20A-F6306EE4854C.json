@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E7D02812-9D86-423E-B20A-F6306EE4854C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA38B777-7EB4-4B89-A8BA-631F2B462DE4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1036A0B2-04FE-4ACF-9754-68F3D37C1B26",
+    "height": 50,
+    "width": 480,
+    "x": 110,
+    "y": 246
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Textbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "506B91F6-1B94-4C51-98D0-248667D99219",
+      "overrideName": "4CB1DDFC-0D3D-4378-8AA2-C8CEE49F637D_stringValue",
+      "value": "Selecciona el procedimiento"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0270662F-0C67-4471-92E9-E66E9EFEAEFC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "72BC4CC7-1712-4F06-ABFA-0133611A906D",
+  "verticalSpacing": 0
+}

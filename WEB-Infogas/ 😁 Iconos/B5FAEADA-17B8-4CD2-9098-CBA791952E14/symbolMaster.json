@@ -1,0 +1,92 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A8FFDB49-9E71-4272-8CFC-97DF664523AE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 40319,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5FAEADA-17B8-4CD2-9098-CBA791952E14",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C34E4A7-3330-4D56-AF01-F8DBFBAB4818",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "72EB2611-0E20-464F-A9BA-E6E6EA819A37",
+    "height": 144,
+    "width": 144,
+    "x": 11701,
+    "y": -4062
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "10463542-0564-4486-998D-EECA49EA4C57",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "06908B12-6029-4F65-A31A-AEB26C9B1E3B"
+    }
+  ],
+  "name": "Icons/Filled/General/Gas Station Radio 14",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DBB0D0F9-371F-4A03-B09C-D977551C144E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A6DBA3C8-2B29-40ED-B8A0-C3C086A8A513",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A07DEDC6-82EA-49AB-886E-FAE1F04788AB",
+    "guides": [
+    ]
+  }
+}

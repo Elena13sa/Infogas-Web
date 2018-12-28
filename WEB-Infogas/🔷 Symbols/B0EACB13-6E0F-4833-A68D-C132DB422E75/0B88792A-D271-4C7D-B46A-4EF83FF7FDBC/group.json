@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B88792A-D271-4C7D-B46A-4EF83FF7FDBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31EBE119-303D-4E90-8D9D-47611A706B08",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DC64B6F-3390-4A08-B19F-7D8836BEF56D",
+    "height": 44,
+    "width": 400,
+    "x": 0,
+    "y": 117
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "134F939E-BB34-4071-86BC-6FB4B702C3BA"
+    },
+    {
+      "class": "group",
+      "id": "5AB24FEA-AAD4-49B9-B1BD-FF60060A9012"
+    }
+  ],
+  "name": "Tab control",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52ADF67F-06F1-4DA8-B4B2-F74731225B3B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

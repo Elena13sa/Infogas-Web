@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC64CD13-8B5D-4224-8713-3BBE4A21B03A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F4394FAC-F741-40A8-8276-D89AFF6299DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "69AA4004-4103-42CF-A477-4B25D185F1CF",
+    "height": 56,
+    "width": 56,
+    "x": 75,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Ingogas/Line/Place",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FACAA5B-2BBE-4B2B-A302-74E7CF0DADF9",
+      "overrideName": "F085BD79-E083-4C5F-9841-40AD1D2C070F_layerStyle",
+      "value": "F97E64E6-7B32-482A-A289-7099A36344E6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "092E2FDC-70CB-4F6A-8B2E-8266927CCEF9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD066F90-B2E5-4FF2-AA30-EEC568469A34",
+  "verticalSpacing": 0
+}

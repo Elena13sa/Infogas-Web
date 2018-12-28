@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "063B6558-3DD9-4DE1-AD7A-F1194D3273AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1292662-22A6-48C9-9108-2D217E9EB4EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DADA9441-8F11-45B0-9453-A9AF18F4C4A1",
+    "height": 64,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Line/Economy Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F38B8C0-8ECD-4027-9B12-27EC9195F5BD",
+      "overrideName": "65D9DB6F-E6F8-4494-B724-9EE05CEC207B_layerStyle",
+      "value": "1897C4B8-29AF-4B7B-A7FC-3D9706E097C1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "537B2DAC-AA9C-4C91-B328-D80B4EBCAB7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "950BEFB0-95BE-4547-B6D5-3D3C2AFED91A",
+  "verticalSpacing": 0
+}

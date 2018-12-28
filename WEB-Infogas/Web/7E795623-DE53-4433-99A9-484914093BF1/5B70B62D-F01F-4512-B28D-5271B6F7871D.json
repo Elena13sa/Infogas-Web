@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B70B62D-F01F-4512-B28D-5271B6F7871D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E2328D3-EA32-43C5-B1F4-D812E6E05EA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8B79CF20-B2BE-43AF-AC1D-2F4DA49E6E56",
+    "height": 48,
+    "width": 48,
+    "x": 1005,
+    "y": 391
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Line/Actions/Dollar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7EBCE16-DD7B-4E0C-9C31-BABAAF4F1B9A",
+      "overrideName": "0A4938B8-B110-4910-AADF-2FDB192D58BC_layerStyle",
+      "value": "01F85D78-3900-41EE-A3FF-DFAA848DB1E7"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "796158DC-17FC-45B6-873F-5F5A0CB4AB72",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9096E2F1-7D7A-4289-A27E-7EFBB4B6ED8A",
+  "verticalSpacing": 0
+}

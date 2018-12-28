@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4703F72-A5F6-450E-97D1-1784C1B088D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC9E6B9F-181B-4E33-9284-DD2236B7C010",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7E2B3FB-6548-49B4-B412-E0FFC6D84735",
+    "height": 420,
+    "width": 1440,
+    "x": 0,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AAC25B51-1898-41B4-A026-40EB2C27B9FB"
+    },
+    {
+      "class": "bitmap",
+      "id": "1115F3DB-C9B0-4749-8886-6FEDA0297EB8"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2D0854A-6949-49AE-9039-2A340302C1EE"
+    }
+  ],
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "585EA453-9442-407F-B133-27B4DC929546",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

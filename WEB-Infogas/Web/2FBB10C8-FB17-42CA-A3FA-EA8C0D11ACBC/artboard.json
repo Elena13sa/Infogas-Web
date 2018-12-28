@@ -1,0 +1,175 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2FBB10C8-FB17-42CA-A3FA-EA8C0D11ACBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC5696E7-8720-494B-897D-E0DF439FFCAE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9A559C6-28D5-4B30-9617-76E6024143B0",
+    "height": 1888,
+    "width": 1440,
+    "x": 4011,
+    "y": 26451
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "CA8A7F39-3F4F-48C3-907F-3CD4D009CEAA",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4315A277-BAC6-4A84-B18B-3642A671C04B",
+    "guides": [
+      125
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FC432FE2-A15A-4843-92B4-6BC91D8264EE"
+    },
+    {
+      "class": "group",
+      "id": "AB09F3DD-3B8A-47B2-9137-11DA32CDD64B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2675CC61-5156-450E-8EB2-85E2A36419A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82831155-9321-4EC5-848F-B3CF11606CF9"
+    },
+    {
+      "class": "group",
+      "id": "F30B5FA6-2D83-42A1-B211-4111856A11B6"
+    },
+    {
+      "class": "group",
+      "id": "5258C42C-F584-4EFB-88C4-F69EBA3C4256"
+    },
+    {
+      "class": "group",
+      "id": "410C5144-F254-42BC-B474-0826DF26FB24"
+    },
+    {
+      "class": "group",
+      "id": "659A55F8-995A-44CA-A0F6-0656419485EA"
+    },
+    {
+      "class": "group",
+      "id": "A30031F4-87D4-4DA0-AF3E-D952F3D82A82"
+    },
+    {
+      "class": "group",
+      "id": "A35A3C0D-5A78-4C4C-B09E-4D6BD52CC215"
+    },
+    {
+      "class": "group",
+      "id": "0482404C-2925-4104-92A2-F6B1A5A307F0"
+    },
+    {
+      "class": "text",
+      "id": "36ED142F-F0C4-4A4E-947C-694837D1D2BF"
+    },
+    {
+      "class": "text",
+      "id": "073F62A1-4CA0-4631-88D0-4A6708D4DF4E"
+    },
+    {
+      "class": "text",
+      "id": "90E1A3D4-F90E-4743-A21A-F913FBB957A7"
+    },
+    {
+      "class": "group",
+      "id": "41E2D3FA-416C-4CBE-BCBD-E93453DE97EC"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 55,
+    "do_objectID": "C3C5F6AF-B42D-45AF-A470-F59487407FDB",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 51,
+    "guttersOutside": true,
+    "horizontalOffset": 84,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1272
+  },
+  "name": "5.6.-Entidades financieras",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "076756C2-87E0-48EF-99B2-D3DFB5B0DD18",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "678E16DB-80C6-4403-9F1B-3F82941C9E27",
+    "guides": [
+    ]
+  }
+}

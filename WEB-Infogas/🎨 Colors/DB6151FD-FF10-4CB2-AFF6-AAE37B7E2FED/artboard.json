@@ -1,0 +1,84 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7EBA1442-CB63-4645-90FE-02BB6237C985",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DB6151FD-FF10-4CB2-AFF6-AAE37B7E2FED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DEAE1F72-7C8E-4DD7-A798-5FD390DBF874",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7887002D-98C3-4B9E-8F61-BF208D2C755A",
+    "height": 343,
+    "width": 343,
+    "x": -2120,
+    "y": 363
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3946C46C-623E-4089-ADC2-217757DC4F58",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3B33BC4E-A3E2-45B3-A8EB-A0563F2AF105"
+    },
+    {
+      "class": "rectangle",
+      "id": "24992631-3F85-4A72-9AE5-A962F189DBCB"
+    }
+  ],
+  "name": "INFOGAS Green ",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC71B0B8-6E68-40F2-9D1A-D8410BFA733C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D78B5165-77F5-4916-B2FF-FA56E85085CA",
+    "guides": [
+    ]
+  }
+}

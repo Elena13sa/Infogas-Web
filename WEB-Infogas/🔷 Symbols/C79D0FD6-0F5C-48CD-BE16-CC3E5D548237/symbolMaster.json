@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "68EFD937-1E2E-4E05-A212-C4BBAA62BB48",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 12942,
+  "clippingMaskMode": 0,
+  "do_objectID": "C79D0FD6-0F5C-48CD-BE16-CC3E5D548237",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "248E6ECF-6910-4CFD-A5D7-6702F35EC438",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44060E8B-A05B-4215-8AB2-52BFCC66D395",
+    "height": 828,
+    "width": 400,
+    "x": 6813,
+    "y": 2661
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "88724EDD-08BF-4DF3-BA14-88BE7544DF59",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B7E1D77B-2446-4C92-ABD7-E18356F283FB"
+    },
+    {
+      "class": "rectangle",
+      "id": "5CF3B9AA-91F0-4C18-B904-60CA0D9BD711"
+    },
+    {
+      "class": "group",
+      "id": "BB155D9F-E37F-4CBA-8543-1D371B419F8D"
+    },
+    {
+      "class": "rectangle",
+      "id": "2CD34A24-1438-40AE-9312-8D22BC06F682"
+    },
+    {
+      "class": "group",
+      "id": "2076813A-E908-440F-855B-5A8B46552FC0"
+    },
+    {
+      "class": "group",
+      "id": "19C7B772-9C3C-4326-B4DB-1D53EFF98AEC"
+    },
+    {
+      "class": "group",
+      "id": "BEF2AC4A-A35D-472D-A270-547EAA2BA229"
+    }
+  ],
+  "name": "Control/Search Entity/Grifo/Cerca a mi",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "348E6EB8-8BD3-45C8-8C99-6E4676DFF608",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3C5AE0FE-E382-4FE2-BEF3-F8876DAC1FB6",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CB1D1802-94B2-41A9-BC6A-1A11A0800D66",
+    "guides": [
+    ]
+  }
+}

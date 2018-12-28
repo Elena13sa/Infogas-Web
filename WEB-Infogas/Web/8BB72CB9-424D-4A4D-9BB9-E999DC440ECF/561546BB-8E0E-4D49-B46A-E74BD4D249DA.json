@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "561546BB-8E0E-4D49-B46A-E74BD4D249DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F34A3EA3-E9CE-4A79-ABB0-48CEDB4A07A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53678CC6-3E39-4655-B80D-74C134E493D1",
+    "height": 117,
+    "width": 1440,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sub header 1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2CDCADF-5F49-41CC-850C-436F2006C103",
+      "overrideName": "B1116E5E-151C-407C-9201-22DBDBEBBF4C_stringValue",
+      "value": "/ Nosotros"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DFA2448-A26C-4F14-95B8-06662D77370A",
+      "overrideName": "0CBF30C6-475A-4FF4-B7A0-ECF2845FD919_stringValue",
+      "value": "Nosotros"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA2A0CCA-88B9-4104-B253-E6AB11E789E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "76A0525F-2F22-42E5-9FE7-3CDF6D35314A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F15B0AF-34E8-4D56-B2B8-7A908E70EA90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6FE291A0-1FF9-43EF-A1AE-4117C8BE57D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8544647-5CF3-43AD-BA02-FE7EBB5BF844",
+    "height": 50,
+    "width": 480,
+    "x": 614,
+    "y": 310
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Textbox Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C24D443C-D7F5-4217-95EB-083B4B0B3A72",
+      "overrideName": "4CB1DDFC-0D3D-4378-8AA2-C8CEE49F637D_stringValue",
+      "value": "Seleccionar categoría"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2ECAD7A9-9CB8-4E36-83E4-873ED6F26FCB",
+      "overrideName": "4CB1DDFC-0D3D-4378-8AA2-C8CEE49F637D_textStyle",
+      "value": "C57BFB7B-8DD4-452F-A7E4-DB3AB2A3230D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44610B4C-0C38-4BA6-B9B6-712CA313D169",
+      "overrideName": "E4E94D7D-265A-4397-AA70-D39278F941D1/80D9EC47-76C6-4CBF-A415-56135FCE0F54_layerStyle",
+      "value": "ACCBFB4E-668C-4D6E-8FF1-A1E5FFF666A5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BB70645-275F-494D-9CD1-D28D0B624E8C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "72BC4CC7-1712-4F06-ABFA-0133611A906D",
+  "verticalSpacing": 0
+}

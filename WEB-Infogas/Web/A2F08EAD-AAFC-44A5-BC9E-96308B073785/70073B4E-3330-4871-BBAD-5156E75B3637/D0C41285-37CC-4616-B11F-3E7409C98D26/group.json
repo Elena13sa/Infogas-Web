@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0C41285-37CC-4616-B11F-3E7409C98D26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D204DAF-264D-47FB-815A-31A15B607431",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD59A77F-21DA-40D2-81E6-78C67B164BAC",
+    "height": 120,
+    "width": 387,
+    "x": 537,
+    "y": 117
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "188F87E6-9B9E-4580-91D8-59023BEF4B0B"
+    },
+    {
+      "class": "group",
+      "id": "FFD676C0-0AE0-4C5E-853A-7D4589886850"
+    }
+  ],
+  "name": "CERTIFICADORAS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37BB933A-A146-4262-89BB-FF6D697016C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

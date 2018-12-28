@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD6295E2-6834-4F0F-A766-FC5C3A52D082",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E14532C-5F02-4584-B83D-ED6853B54EF7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2EF1845-C328-45B6-B3FE-C74BFD2CADC6",
+    "height": 117,
+    "width": 1440,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header 2 Web Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8598AD6A-4780-43E1-8164-DF63B2701DF1",
+      "overrideName": "B1116E5E-151C-407C-9201-22DBDBEBBF4C_stringValue",
+      "value": "/ Talleres de conversión"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "737EC9F4-B1C2-4DEA-BB54-982934D1DEB8",
+      "overrideName": "0CBF30C6-475A-4FF4-B7A0-ECF2845FD919_stringValue",
+      "value": "Talleres de conversión"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C841ECD-239D-4A0A-A2F7-7AD2CDFCB9BB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "76A0525F-2F22-42E5-9FE7-3CDF6D35314A",
+  "verticalSpacing": 0
+}

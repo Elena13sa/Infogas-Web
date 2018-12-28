@@ -1,0 +1,116 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "05772E4B-B7E2-44EB-80D2-CECF9CAB221C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "942355F8-0FE2-4E42-8B93-262CFCBB2CEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0102E418-8976-4C9B-8B5B-7C97D6BC2D89",
+    "height": 413,
+    "width": 1440,
+    "x": 0,
+    "y": 500
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Advantages #4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F13D5954-FB9E-4AF6-97E3-85D4BCCCA12F",
+      "overrideName": "27DBC201-C1E4-403B-95FC-723C98AB8007_stringValue",
+      "value": "Información más consultada"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C107420-77B8-4286-B554-C80C8E6D6D79",
+      "overrideName": "A5710F77-5FB5-4D28-8866-CFBDCE1AF2C6_stringValue",
+      "value": "Financia la conversión o compra de tu vehículo."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E17BA22-2462-4009-B70B-9AE728809606",
+      "overrideName": "73087217-BC8B-4441-96E8-BCCD12FCCB97_stringValue",
+      "value": "Convierte tu vehículo en el taller más cercano."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EAF9C9D7-D4E3-479C-8900-E65CE86B00E5",
+      "overrideName": "85C1EBCB-981F-4EED-A8D1-809ED8AAE7F6_stringValue",
+      "value": "Ubica el más cercano según departamento, ciudad, distrito y radio de giro."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8718979B-151D-42E8-9DC3-76310A006B94",
+      "overrideName": "3D3F0114-9F1B-44F2-A6E3-E01E52FE63D3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6aa67c3cb8763053af2ce4af5ff596d0bf3ecc29.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "32262F28-6DF4-4AD4-ABCE-99AAF39E2299",
+      "overrideName": "5EF59BDB-5E0F-4692-8164-2B92ADB44FCF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f8f763ed93e5c45a1ae8088fc1d68895ddf0e02a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5CFBB977-1A2A-4B94-AA00-E7FC3D25D360",
+      "overrideName": "7A8CF445-EF28-4F40-8BE9-3701041C1982_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/758177198451d7aa87e147efaa08cd06703410c2.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "50A3D04D-A37E-4062-B661-A59183A2DE23",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 18.75,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "30339660-C196-4888-891B-F08365B04F9E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5E4E0620-C057-45C1-9CDA-4619FA301D24",
+  "verticalSpacing": 0
+}

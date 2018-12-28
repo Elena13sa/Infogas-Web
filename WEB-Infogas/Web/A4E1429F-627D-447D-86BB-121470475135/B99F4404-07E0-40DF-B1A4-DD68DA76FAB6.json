@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B99F4404-07E0-40DF-B1A4-DD68DA76FAB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2E2A40B-0D9F-4D0A-A4C3-AD94CD424B14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE52E65E-FA61-40F6-A365-5026FB19A38B",
+    "height": 117,
+    "width": 1440,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header 2 Web Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8598AD6A-4780-43E1-8164-DF63B2701DF1",
+      "overrideName": "B1116E5E-151C-407C-9201-22DBDBEBBF4C_stringValue",
+      "value": "/ Estadísticas"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "737EC9F4-B1C2-4DEA-BB54-982934D1DEB8",
+      "overrideName": "0CBF30C6-475A-4FF4-B7A0-ECF2845FD919_stringValue",
+      "value": "Estadísticas"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F90EE15B-E311-48F3-A779-6BC474E788EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "76A0525F-2F22-42E5-9FE7-3CDF6D35314A",
+  "verticalSpacing": 0
+}

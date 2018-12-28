@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1400A1C1-8BCD-44D8-95C4-1310C3DB0D93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72E61860-9D45-49D1-8727-A62A915977D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6BA71C2-7AC8-43F8-9AD1-4E904123FFF5",
+    "height": 117,
+    "width": 1440,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sub header 1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2CDCADF-5F49-41CC-850C-436F2006C103",
+      "overrideName": "446C3E07-6559-4DE4-A9CD-B4246A9C3FA9_stringValue",
+      "value": "/ Sistema Integrado de Transportes"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DFA2448-A26C-4F14-95B8-06662D77370A",
+      "overrideName": "9F104C7F-922E-4FED-BA09-7F04E36AC83A_stringValue",
+      "value": "Sistema Integrado de Transportes"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CF019A8D-5CA0-4D6F-BCB7-CB87A2B972EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8176F297-F124-41DA-AEC9-FE863B51112B",
+  "verticalSpacing": 0
+}

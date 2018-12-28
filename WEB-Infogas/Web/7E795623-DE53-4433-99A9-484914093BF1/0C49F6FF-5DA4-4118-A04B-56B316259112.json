@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C49F6FF-5DA4-4118-A04B-56B316259112",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42AF88A9-C12E-43DE-8C9D-6CBEB75438DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0129D5BE-CE02-4F03-A90F-80E970596A68",
+    "height": 117,
+    "width": 1440,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header 2 Web Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "737EC9F4-B1C2-4DEA-BB54-982934D1DEB8",
+      "overrideName": "0CBF30C6-475A-4FF4-B7A0-ECF2845FD919_stringValue",
+      "value": "Conoce el estado de tu vehículo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6EB1875D-87FB-47DB-89C2-8B79B39B2B79",
+      "overrideName": "B1116E5E-151C-407C-9201-22DBDBEBBF4C_stringValue",
+      "value": "/ Estado de vehículo"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDE4556B-F847-42A1-BDA6-FBE17E6DD8C0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "76A0525F-2F22-42E5-9FE7-3CDF6D35314A",
+  "verticalSpacing": 0
+}

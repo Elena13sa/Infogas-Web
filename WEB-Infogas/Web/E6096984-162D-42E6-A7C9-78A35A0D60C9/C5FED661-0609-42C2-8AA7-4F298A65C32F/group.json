@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5FED661-0609-42C2-8AA7-4F298A65C32F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9B2FDED-17BA-435C-AE23-27583C0E034D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8D2080C-AD57-4D0F-A886-58BE9A9D6E94",
+    "height": 180,
+    "width": 303,
+    "x": 122,
+    "y": 1007
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4867F9E3-7307-4A99-AE8B-6B3B13A8845D"
+    },
+    {
+      "class": "bitmap",
+      "id": "8963B9B3-6909-4BF0-B58A-26A7140F1643"
+    }
+  ],
+  "name": "Ahorro",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38A372C7-4626-447E-8386-F6CF49A1BD45",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

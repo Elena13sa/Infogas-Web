@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DE83E20-8AE8-401D-B1DC-4E062A4F96D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69D713A3-2B7D-4158-A923-2DF952F9083C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78C5575C-0036-47DF-A500-F08CE9E341B3",
+    "height": 370,
+    "width": 1443,
+    "x": -1,
+    "y": 1044
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "77BA6C18-49B8-48C4-8E67-88844C13C6B8"
+    },
+    {
+      "class": "rectangle",
+      "id": "9A683EAB-FCA6-4D5A-8350-13AD4ED8AF37"
+    },
+    {
+      "class": "text",
+      "id": "410DA158-8F68-4789-B11A-F98BE5081945"
+    },
+    {
+      "class": "text",
+      "id": "DD8BDF18-7416-409F-80CC-8A12F7D17081"
+    },
+    {
+      "class": "text",
+      "id": "1E951334-D092-4E4D-AAA1-790D091B77A5"
+    },
+    {
+      "class": "text",
+      "id": "CB585E11-3F79-4EE0-A18B-8438800CB4BC"
+    },
+    {
+      "class": "text",
+      "id": "82FB4B1F-C664-4860-A249-D1C1884AA675"
+    },
+    {
+      "class": "text",
+      "id": "057693C4-A832-46A6-8651-B73C5A45786B"
+    },
+    {
+      "class": "group",
+      "id": "B41495A5-7101-4940-BD33-DE262AC0BB91"
+    },
+    {
+      "class": "text",
+      "id": "B6CDF149-0860-4BE3-8539-1D85D10BBBAA"
+    },
+    {
+      "class": "text",
+      "id": "97E16D05-B3FB-4B2F-947F-1778957D32DC"
+    },
+    {
+      "class": "text",
+      "id": "29DC724C-2792-4917-A146-E380BF68BB96"
+    },
+    {
+      "class": "text",
+      "id": "7F20AEC7-9083-4242-8476-A56D952435B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "B028246F-DBCC-4EBF-803B-9066B16B314E"
+    },
+    {
+      "class": "shapePath",
+      "id": "4C006112-6052-4D3C-AB20-28CFFB5A9722"
+    }
+  ],
+  "name": "Footer Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE88AD27-7914-4ACD-80D8-1597413DD8D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

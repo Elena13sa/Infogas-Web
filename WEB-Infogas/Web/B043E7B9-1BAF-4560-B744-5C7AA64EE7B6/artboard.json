@@ -1,0 +1,159 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B043E7B9-1BAF-4560-B744-5C7AA64EE7B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9200A62D-3D14-43F0-8F73-9CED11126565",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF2655A9-1DE3-4CEE-8A03-D7A1ABD4E8DA",
+    "height": 1511,
+    "width": 1440,
+    "x": -1166,
+    "y": 26421
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "720F0DFE-A84E-411A-BD2E-F083FC462198",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "30A78822-9085-455A-AEAA-34C8D45939B0",
+    "guides": [
+      122
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AD6295E2-6834-4F0F-A766-FC5C3A52D082"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1B116A3-B693-4DB2-8C2E-6126567E483F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFB89225-C4FA-470E-957F-E3AF7BB7643E"
+    },
+    {
+      "class": "group",
+      "id": "6740BABF-932C-45FA-871A-B2D977B53D0F"
+    },
+    {
+      "class": "group",
+      "id": "A6139F24-A610-4D90-97A1-8FD618979F4D"
+    },
+    {
+      "class": "group",
+      "id": "B0FE8E38-B062-42CE-A523-F17F43CDBB45"
+    },
+    {
+      "class": "group",
+      "id": "07CBEAA4-26C4-459C-BDEC-24777A84D6EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09C8B4BB-F134-4D7D-B8B1-ADACAC280940"
+    },
+    {
+      "class": "text",
+      "id": "453D16E3-4C8A-49F9-AD0E-70132298AB19"
+    },
+    {
+      "class": "text",
+      "id": "78624F44-CBF2-410B-A9A9-28CE9E91D320"
+    },
+    {
+      "class": "group",
+      "id": "1E509554-6502-4285-83BE-525501B00B21"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 81.66666666666667,
+    "do_objectID": "EDE16CB4-BF70-47DF-B834-3E046E2F7BB9",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 110,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1220
+  },
+  "name": "5.3.-Talleres de conversión",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6304464B-51CA-4674-8C32-0D89B9DFCE80",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FCDDA446-8BCE-4836-A55C-118AB95AFABE",
+    "guides": [
+    ]
+  }
+}

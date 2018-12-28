@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCFFA70B-CB3C-4403-B5DE-683B059B7AB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C25845E-57B9-409C-A7AC-ABF3E1F56328",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "293EC809-3BE4-4922-A9A9-1E19D3FE60E9",
+    "height": 24,
+    "width": 24,
+    "x": 235,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Line/Arrow/Circle down Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0DEDD375-497A-44C3-BFFF-ADC99C21E763",
+      "overrideName": "07A01DE4-3E98-4C25-B460-66872FBAEE57_layerStyle",
+      "value": "8275290C-BC62-48F5-85A6-CD6D9D6C64BA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B01A38E-C197-4606-8763-D192C19AC9DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DA6DD0D3-07CB-42D3-8D8C-B940566C588C",
+  "verticalSpacing": 0
+}

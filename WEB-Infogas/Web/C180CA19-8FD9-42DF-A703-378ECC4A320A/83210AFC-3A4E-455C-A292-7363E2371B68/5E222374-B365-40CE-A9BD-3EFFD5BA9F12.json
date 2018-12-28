@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E222374-B365-40CE-A9BD-3EFFD5BA9F12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0F15DD0-388C-43C2-AFF0-D908E58708BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D4BA073-98A4-4BCD-95B0-D5FAA0BDBC27",
+    "height": 129,
+    "width": 400,
+    "x": 0,
+    "y": 310
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Control/Search Entity/Result/Grifo",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25CEAEA5-CFB7-4B92-9E3D-948FA1B1998C",
+      "overrideName": "FD9D5BA9-FDF5-4A5B-9A6A-77AAC864D819_stringValue",
+      "value": "CANTOLAO"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE32A5E6-014C-4212-9EBD-2C5006A2FA1B",
+      "overrideName": "ADCD786F-1A26-4BBA-9946-DA4A06D026B6_stringValue",
+      "value": "Av. Elmer Faucett N° 6000"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6960264-B279-4BA2-9213-73E11FAC5F2A",
+      "overrideName": "1938177B-E6AD-4D51-A976-8C96027C8526_stringValue",
+      "value": "Callao"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F45B6DC8-E5DF-4705-AA22-3FB0D6500D0B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC44C037-289E-421B-B09C-B5F8ED6A4F4A",
+  "verticalSpacing": 0
+}

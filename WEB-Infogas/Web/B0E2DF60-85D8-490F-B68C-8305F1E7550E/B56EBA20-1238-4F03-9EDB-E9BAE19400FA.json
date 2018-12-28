@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B56EBA20-1238-4F03-9EDB-E9BAE19400FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53542DB2-D7F3-41B6-A5BC-120C87001970",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "035C00F9-D8BC-4630-B37A-E6489DF416A3",
+    "height": 68,
+    "width": 488,
+    "x": 476,
+    "y": 240
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button to download PDF Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C3C1188-6772-41F8-8EF6-FF0E31213844",
+      "overrideName": "9B9999C4-A1DE-48AA-BE55-CEE0C3D828B1_stringValue",
+      "value": "Lista de CRPC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C22FD89F-75E1-4BE7-81A7-45783777B60F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F78A0443-2E7F-458B-A61F-24C0CF2E456B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,170 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "95828A8A-D798-4F37-819D-F97D7330672A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D260828A-83D2-427F-9771-538D4A4CF4AD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E65E40F-CCF4-4063-BAB7-06BEEA14A548",
+    "height": 1882,
+    "width": 1440,
+    "x": 10884,
+    "y": 26421
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "1816CEE0-0E5D-49B7-A8E5-012DA2720FC9",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "18877E7A-61AE-4198-92FC-61E9CFAFE322",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C8097AF6-0A42-4CAC-892F-9B7283538587"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2379065F-1918-4774-B685-F2DC1E185AA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "468C0CA4-CFFA-409D-BA18-A136D6927117"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1400A1C1-8BCD-44D8-95C4-1310C3DB0D93"
+    },
+    {
+      "class": "group",
+      "id": "DD829A50-1818-4AC9-97A6-B3336D86C268"
+    },
+    {
+      "class": "group",
+      "id": "1FF5797D-F0EB-4C4F-A413-879780FA3C3E"
+    },
+    {
+      "class": "group",
+      "id": "F4513F62-CC7C-4D9E-ADB8-B92A13C914E8"
+    },
+    {
+      "class": "group",
+      "id": "9DF5BBA2-E716-4BE0-8F44-E7E7018E5DB7"
+    },
+    {
+      "class": "group",
+      "id": "C73AB628-CAB6-44BA-BC4C-062F5FE708BE"
+    },
+    {
+      "class": "group",
+      "id": "99184706-BD84-4A37-8AD1-E2125120F8CC"
+    },
+    {
+      "class": "group",
+      "id": "00417E73-FB3C-4C24-BCDD-6F40A058A2BA"
+    },
+    {
+      "class": "text",
+      "id": "DB1633E7-61C4-4941-9B55-75D01C2D4DF0"
+    },
+    {
+      "class": "text",
+      "id": "2FE4DECD-DF8A-4D29-BFD5-941559493DA8"
+    },
+    {
+      "class": "text",
+      "id": "14D3DDFB-00D3-4E95-891C-4656D58803CA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 55,
+    "do_objectID": "03FF3DAA-8D0D-42C5-8DEB-39F2C6F5578A",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 51,
+    "guttersOutside": true,
+    "horizontalOffset": 84,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1272
+  },
+  "name": "5.10.-Sistema Integrado de transportes",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AB7791B4-7470-4910-BC7E-ECF89969EC14",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A240629F-6D46-4077-9686-24159C9D24A3",
+    "guides": [
+    ]
+  }
+}

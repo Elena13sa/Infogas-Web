@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "366E4F12-A0A6-44C6-B15C-A7890096A200",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B99C3B0-3E93-450B-8708-E61237B3E5B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C47595EA-979D-4FD3-835D-AF33D545D0CF",
+    "height": 117,
+    "width": 1440,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sub header 1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2CDCADF-5F49-41CC-850C-436F2006C103",
+      "overrideName": "446C3E07-6559-4DE4-A9CD-B4246A9C3FA9_stringValue",
+      "value": "/ Servicio de Información"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DFA2448-A26C-4F14-95B8-06662D77370A",
+      "overrideName": "9F104C7F-922E-4FED-BA09-7F04E36AC83A_stringValue",
+      "value": "Servicio de Información"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19F688CE-6A5B-43C8-8B50-4C559EA4BEA6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8176F297-F124-41DA-AEC9-FE863B51112B",
+  "verticalSpacing": 0
+}

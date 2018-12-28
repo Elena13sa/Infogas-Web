@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A914831A-9CF9-43AF-9046-FA8D7A7323DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F5F624D-674A-42C2-8E0C-13E8AFB84D26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AADE5FE8-0928-46D2-8A70-66D93D695E48",
+    "height": 49,
+    "width": 400,
+    "x": 0,
+    "y": 826
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "60BB6421-8640-4A19-B3F1-5AD8DCE59BD3"
+    },
+    {
+      "class": "group",
+      "id": "2E747ACE-FDD2-441C-979F-BD0D848BF7F8"
+    }
+  ],
+  "name": "Rectangle 2 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE99D4E5-3815-4D68-868E-8041B82122A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

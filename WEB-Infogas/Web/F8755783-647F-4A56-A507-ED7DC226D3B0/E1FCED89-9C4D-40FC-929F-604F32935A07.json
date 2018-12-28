@@ -1,0 +1,116 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Poppins-Regular",
+              "size": 16
+            }
+          },
+          "kerning": 0.4444444,
+          "ligature": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
+          }
+        },
+        "length": 1971,
+        "location": 0
+      }
+    ],
+    "string": "Lorem ipsum dolor sit amet consectetur adipiscing elit primis, odio nulla inceptos arcu habitant in est, magnis proin ante torquent tempor ullamcorper sagittis. Non justo nisi quam convallis habitant cubilia in eros, lacinia netus vehicula fusce et sociis interdum primis accumsan, nam quisque malesuada ad dictum facilisis sed. Vulputate at conubia egestas nostra dignissim viverra convallis felis, parturient sapien lacus vivamus mauris condimentum fusce fermentum, rutrum blandit sociis facilisi congue molestie purus.\n\nTaciti per facilisis fames eget odio mi proin felis aptent, velit penatibus ultricies mauris praesent quam porttitor elementum, libero urna tellus orci netus fringilla natoque vitae. Tristique ante dictumst orci aliquet vestibulum suspendisse, ultrices mi eleifend primis consequat massa, cum pharetra auctor morbi nunc. Class volutpat vivamus at habitant suspendisse vel, himenaeos metus nisi lectus vulputate non dictum, magna felis egestas feugiat porttitor.\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit primis, odio nulla inceptos arcu habitant in est, magnis proin ante torquent tempor ullamcorper sagittis. Non justo nisi quam convallis habitant cubilia in eros, lacinia netus vehicula fusce et sociis interdum primis accumsan, nam quisque malesuada ad dictum facilisis sed. Vulputate at conubia egestas nostra dignissim viverra convallis felis, parturient sapien lacus vivamus mauris condimentum fusce fermentum, rutrum blandit sociis facilisi congue molestie purus.\n\nTaciti per facilisis fames eget odio mi proin felis aptent, velit penatibus ultricies mauris praesent quam porttitor elementum, libero urna tellus orci netus fringilla natoque vitae. Tristique ante dictumst orci aliquet vestibulum suspendisse, ultrices mi eleifend primis consequat massa, cum pharetra auctor morbi nunc. Class volutpat vivamus at habitant suspendisse vel, himenaeos metus nisi lectus vulputate non dictum, magna felis egestas feugiat porttitor."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E1FCED89-9C4D-40FC-929F-604F32935A07",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A58D18A-63EC-4FD8-AF4F-C95950CA9B17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "73C5B421-5854-4337-8665-BFD01A5BDCF1",
+    "height": 616,
+    "width": 1093,
+    "x": 131,
+    "y": 281
+  },
+  "glyphBounds": "{{0, 8}, {1091, 606}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "78D0A852-9B96-4DCE-A9B8-489BBD7607A6",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B54BEC6-9087-46FA-8D70-3CDEBBFDDBF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "4BFF0F03-0BCF-4A23-9CBC-2C2EB0390E1C",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Poppins-Regular",
+            "size": 16
+          }
+        },
+        "kerning": 0.4444444,
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

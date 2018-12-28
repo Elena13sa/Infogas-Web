@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D193DCC-5095-4AAC-B3C2-B013FC90CA7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0A97861-A0D1-401F-AF7A-E37FCD446E2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A6D643D-3237-4ADE-B973-C051D29BD75A",
+    "height": 180,
+    "width": 303,
+    "x": 570,
+    "y": 1006
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B450DC0D-E599-405D-A0AB-CC40AB226AB0"
+    },
+    {
+      "class": "bitmap",
+      "id": "C5F42B8C-4047-42CD-936C-6D1655ED294B"
+    }
+  ],
+  "name": "Seguro",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40CAECFA-E92B-4465-8645-D95F29F63266",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

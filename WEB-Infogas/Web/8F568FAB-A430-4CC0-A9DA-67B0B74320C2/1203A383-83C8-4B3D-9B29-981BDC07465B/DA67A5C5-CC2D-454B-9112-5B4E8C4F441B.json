@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA67A5C5-CC2D-454B-9112-5B4E8C4F441B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1698174-57B7-43C1-A6D5-D985AB6049B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5EE480B8-E8BD-4CE1-A012-CDAEC3BE85CC",
+    "height": 50,
+    "width": 190,
+    "x": 0,
+    "y": 182
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Secondary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D137EF01-F75B-4D68-8501-C88105F3D0E5",
+      "overrideName": "A33E19FE-E92A-4B84-999A-8CC78A9FE31D_stringValue",
+      "value": "Conocer más"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3252B99-A3ED-4533-9064-77E51BE204E8",
+      "overrideName": "A5D189FB-72E9-41D4-A07E-42C83FE1DAFB_layerStyle",
+      "value": "8275290C-BC62-48F5-85A6-CD6D9D6C64BA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A7952D6-6805-4D64-AF0F-B6C8E9973C13",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6DBDE283-6CDF-4BB5-9209-307EB084EB75",
+  "verticalSpacing": 0
+}

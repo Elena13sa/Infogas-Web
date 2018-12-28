@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0F6B7A6C-2694-486D-8ED3-E7F444CB7605",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7D8AD8E-2E85-4DC2-AB1D-220873F682D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30C40CAF-3293-4A4C-88D9-D9A7DDE9B41C",
+    "height": 136,
+    "width": 136,
+    "x": 12,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "4CEA2DF1-37E0-48A0-A922-44D1A8116410"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68D99517-8D6D-46C2-82A6-5DFA27C31CF0"
+    }
+  ],
+  "name": "concepto-seguro-financiacion-automoviles_34152-997",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3517DAD4-8423-41DA-A99A-814EB33CE1A7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

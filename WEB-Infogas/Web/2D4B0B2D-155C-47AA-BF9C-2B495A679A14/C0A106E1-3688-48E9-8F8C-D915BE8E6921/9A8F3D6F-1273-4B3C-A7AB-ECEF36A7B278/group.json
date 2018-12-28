@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A8F3D6F-1273-4B3C-A7AB-ECEF36A7B278",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9549265-F6B4-4859-8F82-30D4BADAD80B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06318976-5126-4AFC-84C9-4205BF854980",
+    "height": 120,
+    "width": 387,
+    "x": 944,
+    "y": 117
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "464D5A00-DE2B-40C6-8616-520F3F6DF467"
+    },
+    {
+      "class": "group",
+      "id": "FC849BF5-525A-4408-9EE5-044AB4FC0D25"
+    }
+  ],
+  "name": "PECS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF27AF70-5AC1-4547-BA76-7A335E0F04C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

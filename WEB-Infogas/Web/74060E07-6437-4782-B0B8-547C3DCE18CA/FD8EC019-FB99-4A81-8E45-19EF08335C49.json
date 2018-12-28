@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD8EC019-FB99-4A81-8E45-19EF08335C49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F15F7159-02F9-49A6-978C-2B0325F23E8E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9710EFB5-6D0A-4AF6-BBDC-C7F0A0FEDC4B",
+    "height": 68,
+    "width": 488,
+    "x": 730,
+    "y": 240
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button to download PDF Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C3C1188-6772-41F8-8EF6-FF0E31213844",
+      "overrideName": "9B9999C4-A1DE-48AA-BE55-CEE0C3D828B1_stringValue",
+      "value": "Proveedores de autos GNV"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D3E7263-3E83-406D-900B-4142B678A8CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F78A0443-2E7F-458B-A61F-24C0CF2E456B",
+  "verticalSpacing": 0
+}

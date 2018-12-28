@@ -1,0 +1,172 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D9AA393-9EE8-4767-BE44-30A5083603A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E902DE4-09C7-4BC3-9472-92D9E5F62EAA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59D0C09D-D43A-4825-AB53-AFCEFF074412",
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -485,
+    "do_objectID": "5777A13D-47B7-4E9A-A1CD-A83703FE58DF",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "86FA8124-6AF3-438C-BF59-5ACD599EAEBF"
+    },
+    {
+      "class": "artboard",
+      "id": "E96A98C0-06E6-491E-9A48-140399BEA2C8"
+    },
+    {
+      "class": "artboard",
+      "id": "AA4B76B7-A6D1-4BEC-A7FA-0B3C81AD8593"
+    },
+    {
+      "class": "artboard",
+      "id": "779145D7-5D78-416B-AB1C-433AAB8D96B3"
+    },
+    {
+      "class": "artboard",
+      "id": "FDE9093E-FBB9-47DE-86C8-64C6ABCC7E2D"
+    },
+    {
+      "class": "artboard",
+      "id": "F899E511-B7B9-4568-B4F2-795F10EE2C8D"
+    },
+    {
+      "class": "artboard",
+      "id": "69649BAE-C9B4-4D1B-9B6D-CD4D4D910B0C"
+    },
+    {
+      "class": "artboard",
+      "id": "2E38E647-E2C5-40B6-AF08-B689F0F1E24A"
+    },
+    {
+      "class": "artboard",
+      "id": "3EBDC185-2C01-4DE6-86FF-CB2A8E37BB18"
+    },
+    {
+      "class": "artboard",
+      "id": "8E88584C-5E31-49DD-8A51-7170FB520D4C"
+    },
+    {
+      "class": "artboard",
+      "id": "F74A3587-DF7F-4E75-83A0-3EA86736A9A7"
+    },
+    {
+      "class": "artboard",
+      "id": "401B1D2E-3706-49F4-BBA2-C906EF928CF1"
+    },
+    {
+      "class": "artboard",
+      "id": "CDBE0BDE-E64C-43D0-AE40-482F48EB555E"
+    },
+    {
+      "class": "artboard",
+      "id": "F18999B5-EBCF-4C9B-AF41-E8B67D6E8820"
+    },
+    {
+      "class": "artboard",
+      "id": "C43121EA-012F-4B79-BBE0-3240843F06CD"
+    },
+    {
+      "class": "artboard",
+      "id": "6BB223D6-362C-4658-817E-76ABF30107BA"
+    },
+    {
+      "class": "artboard",
+      "id": "C2308AE0-5307-48F1-9284-6C691BA7EADD"
+    },
+    {
+      "class": "artboard",
+      "id": "DB6151FD-FF10-4CB2-AFF6-AAE37B7E2FED"
+    },
+    {
+      "class": "artboard",
+      "id": "BA7E8F90-3D7B-41AA-BCA0-AB65A0F74F71"
+    },
+    {
+      "class": "artboard",
+      "id": "E3A7D76C-8346-42A3-9B06-755910119026"
+    },
+    {
+      "class": "artboard",
+      "id": "C20A02BC-019B-4064-B634-9977253BA389"
+    },
+    {
+      "class": "artboard",
+      "id": "1A03E6FA-4E50-4E69-9CFD-DE031E484A91"
+    },
+    {
+      "class": "artboard",
+      "id": "9986AB83-22A0-42E6-90CA-FEEFAAC605BC"
+    },
+    {
+      "class": "artboard",
+      "id": "1EB6316D-61BA-4516-B28C-5C4F9055A590"
+    },
+    {
+      "class": "artboard",
+      "id": "CDE2A889-6C5D-4E39-9268-80E0DDCDB381"
+    },
+    {
+      "class": "artboard",
+      "id": "36CE9C47-A153-4E3E-93B0-7F25657BD8A5"
+    },
+    {
+      "class": "artboard",
+      "id": "B02014D7-64CB-4AA5-878F-A008ABB9CD0B"
+    }
+  ],
+  "name": "🎨 Colors",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01025453-AC81-4A1F-8C64-7EDEC660D7DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -349,
+    "do_objectID": "F7034975-82BB-4001-9A82-B97B86220C7A",
+    "guides": [
+    ]
+  }
+}

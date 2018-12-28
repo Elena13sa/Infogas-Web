@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "273137B0-0EDC-4DEA-A15B-FD11777F3FC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87EE1D24-692C-4270-86D9-F43F66BFCFB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC5E0441-E0ED-4382-AAB6-6097C209FE70",
+    "height": 4,
+    "width": 1440,
+    "x": 0,
+    "y": 506
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5167E6A3-484D-4E4D-BB09-20B634A82448"
+    },
+    {
+      "class": "rectangle",
+      "id": "3A9E1168-D296-414D-A9C3-2ACEC1EE9D28"
+    }
+  ],
+  "name": "Carrusel_timer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD0D6920-6D60-425E-A3A0-8A0DB7188FA7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A96EAD75-5330-4C49-B330-ECBE25F75902",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 136,
+    "width": 118.3095356069845,
+    "x": 13,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "702BD34C-5EAC-4E20-A626-A273022B62F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F15BFDB8-8AFC-4E96-BEAE-CAEACB6A0566"
+    },
+    {
+      "class": "shapePath",
+      "id": "0AF9A497-004E-4552-8289-FE94631194FD"
+    },
+    {
+      "class": "shapePath",
+      "id": "A882D136-6B20-4491-B0E7-E41D765E7AD2"
+    },
+    {
+      "class": "shapePath",
+      "id": "BD38CB06-2F9F-4B40-A8CA-3BDAF17D5B84"
+    },
+    {
+      "class": "shapePath",
+      "id": "5F47B266-F4C7-481A-AB1B-C08A5DFF4A35"
+    },
+    {
+      "class": "shapePath",
+      "id": "A0730AC5-F5E3-482D-BC61-FE6403618555"
+    },
+    {
+      "class": "shapePath",
+      "id": "40737D98-30C1-46B6-BF83-1D743CB7DBAF"
+    },
+    {
+      "class": "shapePath",
+      "id": "1988AA65-00AF-4260-9F6D-486C6BCB05A2"
+    },
+    {
+      "class": "shapePath",
+      "id": "D41D5ADF-9E68-43D2-908A-D331CA4886D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "FE07B226-F7CC-44C2-A58D-C8D12070907F"
+    },
+    {
+      "class": "shapePath",
+      "id": "D235CA31-A429-46BC-89B6-161BBD6A8488"
+    },
+    {
+      "class": "shapePath",
+      "id": "755011DA-0586-467D-89E5-778825DA3514"
+    },
+    {
+      "class": "shapePath",
+      "id": "7DD24160-64F8-4F83-A60A-BD7D6A10422E"
+    },
+    {
+      "class": "shapePath",
+      "id": "044B9E65-7B1B-4891-B1AB-F21B9BC77319"
+    },
+    {
+      "class": "shapePath",
+      "id": "3FE201F5-E9A4-4524-A070-65251351C90C"
+    },
+    {
+      "class": "shapePath",
+      "id": "840D86A7-C29B-4D84-BA22-4D016B5EC8C6"
+    },
+    {
+      "class": "shapePath",
+      "id": "F47A385A-AE3B-49B9-B9E9-3F66ED17CCC3"
+    },
+    {
+      "class": "shapePath",
+      "id": "3BFCF389-914B-4489-870B-764A3D06A8E0"
+    },
+    {
+      "class": "shapePath",
+      "id": "FC8BEF5B-7D76-4D8F-97BA-D3E003326ACB"
+    },
+    {
+      "class": "shapePath",
+      "id": "D6DEED46-8475-42AA-B969-8707378F7AE2"
+    },
+    {
+      "class": "shapePath",
+      "id": "2D02AF1E-652B-4E47-90DB-31C10608F2D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "7FF9B113-125D-4FF0-B860-3783D8D573E4"
+    }
+  ],
+  "name": "Fill 48",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "ACCBFB4E-668C-4D6E-8FF1-A1E5FFF666A5",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "DF18596E-65D3-4785-B669-7B19EEE18874",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.34,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

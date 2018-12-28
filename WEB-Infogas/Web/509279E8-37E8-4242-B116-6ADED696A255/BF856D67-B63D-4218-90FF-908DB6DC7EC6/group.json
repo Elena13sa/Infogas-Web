@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BF856D67-B63D-4218-90FF-908DB6DC7EC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BE0985F-C767-41CB-98A1-DBA934C27368",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81C69F74-2944-4F73-BA72-9E41C7F9953E",
+    "height": 925,
+    "width": 1440,
+    "x": 0,
+    "y": -18
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8CE9906B-D1DF-4A60-82A8-BFE1992F7849"
+    },
+    {
+      "class": "bitmap",
+      "id": "84774ED1-65A5-4F96-8124-B6A92350C21F"
+    }
+  ],
+  "name": "Captura de pantalla 2018-12-19 a la(s) 19.26.42",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EFCF844E-CEEB-453A-B1F4-481C27784B47",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

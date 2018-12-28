@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "19242CD1-6619-4D78-B0EC-0BE24AE084BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 370,
+    "width": 1443,
+    "x": -3,
+    "y": 936
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2CFC594B-BEC4-45EC-8814-48BD4B1BC04F"
+    },
+    {
+      "class": "rectangle",
+      "id": "AD2B3DFC-EDF9-48C0-B372-23AC29EF666D"
+    },
+    {
+      "class": "text",
+      "id": "12187922-F862-4C56-AFE6-0E1676B31053"
+    },
+    {
+      "class": "text",
+      "id": "D514ACCA-EF5E-4833-B2AF-AF06DBC2E7AA"
+    },
+    {
+      "class": "text",
+      "id": "97AF4103-7C22-4E9C-80FB-E1BDC629C5CD"
+    },
+    {
+      "class": "text",
+      "id": "E13CBB7B-9040-4364-BA5C-0B788A3AE53D"
+    },
+    {
+      "class": "text",
+      "id": "1C63222C-0D1A-412B-A2FE-2C64167EA734"
+    },
+    {
+      "class": "text",
+      "id": "825EBEBB-52B6-48F0-BCE8-6C08720AA555"
+    },
+    {
+      "class": "group",
+      "id": "A35B43ED-9449-4A05-BA29-282E7BEA319D"
+    },
+    {
+      "class": "text",
+      "id": "C9C3ABC3-99FF-4ECD-942A-E88841D457AD"
+    },
+    {
+      "class": "text",
+      "id": "BF7B3FD4-2152-43B2-A3B7-1096E4B7A6B5"
+    },
+    {
+      "class": "text",
+      "id": "FF11981B-5FCD-4E92-A9B2-6E6048772BC0"
+    },
+    {
+      "class": "text",
+      "id": "9685E6C2-FB3D-4307-A3FE-FBA2EA1D6680"
+    },
+    {
+      "class": "shapePath",
+      "id": "71FC5FD0-9617-46A4-BF11-46EE307ECB47"
+    },
+    {
+      "class": "shapePath",
+      "id": "37832662-5CE2-4DC5-A285-83DCD9242013"
+    }
+  ],
+  "name": "Footer Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

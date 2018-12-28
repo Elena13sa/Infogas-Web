@@ -1,0 +1,259 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B60FFA4-341D-4AFB-AC95-E8CD6870BCAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B7D5566-4C53-4970-BE25-92641FBCA3D2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B6DBDBF-4F13-497A-82C8-3D1C86F53582",
+    "height": 1414,
+    "width": 1440,
+    "x": 3114,
+    "y": 16632
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "B4CF5D6F-A33F-4358-AA16-80D8E69B280E",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FF2B8380-EFBA-4D09-8DD7-1C0A5F4FF965",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D42E34A5-B5C7-4E6A-B17B-039FBC58378B"
+    },
+    {
+      "class": "text",
+      "id": "B929D99D-DF0A-4668-A1F6-41155B5CB38A"
+    },
+    {
+      "class": "group",
+      "id": "B65530AE-6A7E-4854-81AD-364B117DD394"
+    },
+    {
+      "class": "bitmap",
+      "id": "65C48958-292A-4FA9-BCA3-AA02B1BD4E29"
+    },
+    {
+      "class": "text",
+      "id": "D611F287-D710-45BC-9EF5-FEC985E82E3E"
+    },
+    {
+      "class": "rectangle",
+      "id": "D0A258A8-526E-4E63-B06A-EE0C3B066D5C"
+    },
+    {
+      "class": "text",
+      "id": "4F49DC67-724B-4AB6-A5F1-B0F1618D1767"
+    },
+    {
+      "class": "text",
+      "id": "735F3014-FDCD-4AEA-8EF9-CA55749F0F27"
+    },
+    {
+      "class": "rectangle",
+      "id": "479B9094-267F-4493-9DA6-7277B900875C"
+    },
+    {
+      "class": "group",
+      "id": "AC16069F-C4BC-4DF3-8EB9-A09B37D9808B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F402C35-EBB0-427C-A337-9812DCCBF44D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA141140-27BB-42FE-9C6C-D34827BB6420"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED426244-C797-40A2-8096-061F6DD5325D"
+    },
+    {
+      "class": "text",
+      "id": "0646F52D-2DC4-4A2A-B4D8-8A8D0D37117E"
+    },
+    {
+      "class": "rectangle",
+      "id": "CAC5B985-CDB6-4604-BD23-BA19C27A00BB"
+    },
+    {
+      "class": "text",
+      "id": "A9AF1823-DD24-4BE4-82A1-BB38681A802B"
+    },
+    {
+      "class": "text",
+      "id": "397C2703-608E-4617-85B9-4647B32E07DA"
+    },
+    {
+      "class": "rectangle",
+      "id": "2B944B83-B94D-4D1B-87C8-F41E4E89E5F6"
+    },
+    {
+      "class": "text",
+      "id": "4B32EEA7-C41B-48EF-9E69-4C53D161E11D"
+    },
+    {
+      "class": "text",
+      "id": "25C947F8-3A84-48DF-AD13-C18B8D80DB62"
+    },
+    {
+      "class": "rectangle",
+      "id": "7C5B89C8-A47C-4B29-967C-044F6F78B3A3"
+    },
+    {
+      "class": "text",
+      "id": "30AE53A1-2BA9-4D55-B343-7582E43949D0"
+    },
+    {
+      "class": "text",
+      "id": "F17D9DA3-BF68-4CA8-80C5-4C6921211C6D"
+    },
+    {
+      "class": "group",
+      "id": "FAF55FA7-FCE0-4C95-BF2F-C7EC17E8CA49"
+    },
+    {
+      "class": "group",
+      "id": "6A994641-6E9A-45ED-941A-93DA1B789BE2"
+    },
+    {
+      "class": "text",
+      "id": "A33237CE-24CF-4656-B7C3-5F20252D3AEF"
+    },
+    {
+      "class": "text",
+      "id": "B179CB53-EDCC-4F60-BBF1-4B08A99E6591"
+    },
+    {
+      "class": "text",
+      "id": "2FB28D0F-D738-4466-8AD7-0817F9EE013A"
+    },
+    {
+      "class": "bitmap",
+      "id": "13A31266-2281-48DD-884F-682C7FF08695"
+    },
+    {
+      "class": "bitmap",
+      "id": "EE09C3AB-3A8F-4145-AE0A-C7FA3B616590"
+    },
+    {
+      "class": "text",
+      "id": "EACD5027-94C7-454A-A27A-74217368DE7C"
+    },
+    {
+      "class": "group",
+      "id": "64842081-0E9F-4C11-A57B-837010171F79"
+    },
+    {
+      "class": "rectangle",
+      "id": "4BFD8D26-C01B-492A-A5D0-04A21C2DAF44"
+    },
+    {
+      "class": "group",
+      "id": "800F982F-A401-4908-A77A-E042AAD831FA"
+    },
+    {
+      "class": "text",
+      "id": "8BE92F47-C6AF-4892-9246-FD1D10B32EE3"
+    },
+    {
+      "class": "text",
+      "id": "91FC41F1-C63B-42CB-BFFD-2318BC58B5B4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 55,
+    "do_objectID": "31536056-18FB-47FD-BFB2-ED0AE8E9BDA3",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 51,
+    "guttersOutside": true,
+    "horizontalOffset": 84,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1272
+  },
+  "name": "11.1.5 Vista Contacto",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F5445F20-B6EB-4CD9-A5C8-2845732638A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E90ED6D9-5923-4CDE-92B2-DA00B283E759",
+    "guides": [
+      868
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E11ECA12-5DCC-45C1-A3E8-BA9C406588A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD51C4A2-43B1-4D10-8DDA-EB04BF2D5212",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48BF52CC-4FBE-448E-A1A3-D01895F8364A",
+    "height": 50,
+    "width": 190,
+    "x": 496,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Secondary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31F5307C-697E-4D80-A0AE-0E00C6F5DD48",
+      "overrideName": "A33E19FE-E92A-4B84-999A-8CC78A9FE31D_stringValue",
+      "value": "Consultar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98857E85-ABAD-4165-B135-0DE5C71CB562",
+      "overrideName": "A5D189FB-72E9-41D4-A07E-42C83FE1DAFB_layerStyle",
+      "value": "852B271A-B30F-4DBC-BCA1-4797957ABE95"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D1B4493-9DDF-418E-8149-6484FB904909",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6DBDE283-6CDF-4BB5-9209-307EB084EB75",
+  "verticalSpacing": 0
+}

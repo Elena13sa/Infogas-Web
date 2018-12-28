@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E6E2A28-4ACC-4627-B8E2-16B8BA6FCBFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3276EC93-90FD-46AB-8E61-BD05F4AD112B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "144338A2-C141-499F-87A7-D308F02ED309",
+    "height": 40,
+    "width": 40,
+    "x": 130,
+    "y": 209
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Line/General/Excel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "956D44CE-FA5F-4845-AC42-C6796196ACDF",
+      "overrideName": "18C21F1E-AB6E-4479-90E5-F80B0BC98E97_layerStyle",
+      "value": "3EBDC008-5424-413F-A8FE-26FF0E7D0409"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0BEC384-1143-47D6-B728-9DB9B73614BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F06BA112-6C81-46F2-B2BD-52142990BB22",
+  "verticalSpacing": 0
+}

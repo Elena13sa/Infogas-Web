@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C5684B6-E448-4C06-AB4D-7A1F3C0B63F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1F2FDB8-DCE1-451D-88C5-32FA19A903E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "45EEBB4E-EB47-4AEB-9838-81E414C9AE2C",
+    "height": 48,
+    "width": 48,
+    "x": 697,
+    "y": 391
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Line/General/PECS",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E86A2C90-392F-4A91-995E-E83B7ADB3482",
+      "overrideName": "54889901-422A-45F1-8590-228B1007FB06_layerStyle",
+      "value": "01F85D78-3900-41EE-A3FF-DFAA848DB1E7"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3557694E-15D1-4FBA-BFB4-6AD5CAA0B879",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BB802E85-57AD-4B9E-AE3D-0411D8110D06",
+  "verticalSpacing": 0
+}

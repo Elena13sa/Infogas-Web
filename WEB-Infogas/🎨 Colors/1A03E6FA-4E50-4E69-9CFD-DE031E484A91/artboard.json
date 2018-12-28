@@ -1,0 +1,84 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "31FEC395-CB9B-45A6-A67F-2F15D925AECD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A03E6FA-4E50-4E69-9CFD-DE031E484A91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "974C3AAA-14E8-499D-9E17-A343B399070B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "60039F68-8E39-4CAA-9AF5-E58066C5A188",
+    "height": 343,
+    "width": 343,
+    "x": -348,
+    "y": 363
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "304B4225-9356-48BF-B8D1-EB2BA742B2FF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A7644789-C1CA-49B1-B66B-68A0E4C736D3"
+    },
+    {
+      "class": "rectangle",
+      "id": "14EAE8D0-AD6D-492C-A18F-06F0FA91D80A"
+    }
+  ],
+  "name": "INFOGAS Orange 3",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "401485FB-7099-4ABC-A048-623426B84919",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2B54127D-7011-4219-8A5C-B748E563F40C",
+    "guides": [
+    ]
+  }
+}

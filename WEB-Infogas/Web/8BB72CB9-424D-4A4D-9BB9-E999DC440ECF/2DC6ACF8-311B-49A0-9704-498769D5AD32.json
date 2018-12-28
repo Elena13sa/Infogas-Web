@@ -1,0 +1,114 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Poppins-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "ligature": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 2288,
+        "location": 0
+      }
+    ],
+    "string": "El art. 3 de la Ley Nº 27133 - Ley de Promoción del Desarrollo de la Industria del Gas Natural, que declara de interés nacional y necesidad pública, el fomento y desarrollo de la industria del gas natural en los sectores industrial, residencial y transporte de nuestro país.\n\nDS N° 022-2004-PRODUCE, que crea la Comisión Nacional para la Promoción y Uso del Gas Natural, encargada de promover los temas vinculados a los usuarios industriales, automotores y residenciales de gas, a través de acciones de promoción y difusión, así como propuestas de toda índole, con la finalidad de desarrollar los mercados de gas industrial, automotor y residencial, sin perjuicio de las competencias de otras Entidades del Estado establecidas por Ley.\n\nDS Nº 006-2005-EM, Reglamento para la instalación y operación de Establecimientos de Venta al Público de Gas Natural Vehicular (GNV),  y normas modificatorias (DS Nº 009-2006-EM y DS Nº 014-2010-EM).\n\nEl Directiva Nº 001-2005-MTC/15, aprobado por RD Nº 3990-2005-MTC/15 – Régimen de Autorización y Funcionamiento de las Entidades Certificadoras de Conversiones y los Talleres de Conversión a GNV; y normas modificatorias (RD Nº 7150-2006-MTC/15).  Por DS Nº 016-2008-MTC, se otorga rango de DS a la RD.\n\nResolución de Consejo Supervisor Nº 001-2005-CS/GNV publicada en el diario “El Peruano” el 4-10-2005, el Consejo Supervisor designó como Administrador del Sistema de Control de Carga de GNV a  COFIDE; bajo la modalidad de un Contrato de Fideicomiso de Administración.\n\nContrato de Fideicomiso de Administración del Sistema de Control de Carga de GNV  con la participación del Consejo Supervisor como Fideicomitente Público y Fideicomisario, PLUSPETROL Perú Corporation S.A. y Gas Natural de Lima y Callao S.R.L. como Fideicomitentes Privados y COFIDE como Fiduciario. El 28-10-2005 se suscribió la correspondiente Escritura Pública.\n\nRD Nº 2268-2010-MTC/15 que aprueba la Directiva Nº 004-2010-MTC/15, Régimen de Autorización y Funcionamiento de los CRPC.\n\nDS Nº 028-2011-MTC que aprueba el Reglamento del Programa para la Renovación del Parque Automotor.\n\nRD Nº 110-2011-MTC/15 que aprueba el Procedimiento para el Registro de Vehículos que se acogerán al Programa para la Renovación del Parque Automotor en el Sistema de Control de Carga de GNV."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2DC6ACF8-311B-49A0-9704-498769D5AD32",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2AE7ABFB-5748-477C-9A9A-495EDD834DB5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A2F852F-D69C-48F3-96B5-85F18F66889E",
+    "height": 318,
+    "width": 1193,
+    "x": 120,
+    "y": 1250
+  },
+  "glyphBounds": "{{0, 4}, {1193, 515}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "El art. 3 de la Ley",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "78D0A852-9B96-4DCE-A9B8-489BBD7607A6",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "924FEC1B-649F-4C3A-8406-25119383D65C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "35C58EAA-DFF7-4EB0-9F8F-0B37B5CBFEC6",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Poppins-Regular",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 3,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BA141140-27BB-42FE-9C6C-D34827BB6420",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E62D3BC1-C8B8-4AB2-801A-7A462C53369B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84C3D2B0-9C66-4CD2-8DCE-406D75864FA5",
+    "height": 117,
+    "width": 1440,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sub header 1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2CDCADF-5F49-41CC-850C-436F2006C103",
+      "overrideName": "446C3E07-6559-4DE4-A9CD-B4246A9C3FA9_stringValue",
+      "value": "/ Contacto"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DFA2448-A26C-4F14-95B8-06662D77370A",
+      "overrideName": "9F104C7F-922E-4FED-BA09-7F04E36AC83A_stringValue",
+      "value": "Contacto"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "953F6E61-01DA-42D5-990E-84219DC20908",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8176F297-F124-41DA-AEC9-FE863B51112B",
+  "verticalSpacing": 0
+}

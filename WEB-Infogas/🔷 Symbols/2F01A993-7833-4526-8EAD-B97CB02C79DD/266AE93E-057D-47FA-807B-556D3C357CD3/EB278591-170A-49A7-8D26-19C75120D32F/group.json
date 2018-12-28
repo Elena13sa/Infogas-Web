@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB278591-170A-49A7-8D26-19C75120D32F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70DD1273-42F2-45CB-BF3B-F50ED96C62D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0143B84D-1C38-4FA6-A043-5B67F6F44624",
+    "height": 136,
+    "width": 136,
+    "x": 4,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "98A28AE6-D458-4B01-9848-E8D0012DD997"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B074E63-1F48-4B6B-B9A8-E4CF9A2F14D5"
+    }
+  ],
+  "name": "Circulo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9E6DF92-C160-4D3B-B436-292A9D11B066",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "65806347-9CD1-4806-A458-CAD11E29A561",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5DCA8868-E0D7-4B3D-85BB-D525D0E92344",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15B2C8A3-E230-4AE5-8BC3-1EAFCCA6088A",
+    "height": 68,
+    "width": 488,
+    "x": 476,
+    "y": 240
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button to download PDF Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C3C1188-6772-41F8-8EF6-FF0E31213844",
+      "overrideName": "9B9999C4-A1DE-48AA-BE55-CEE0C3D828B1_stringValue",
+      "value": "Lista de Certificadores"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F0956E7-A62F-4858-B182-1236D1BA4AAA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F78A0443-2E7F-458B-A61F-24C0CF2E456B",
+  "verticalSpacing": 0
+}

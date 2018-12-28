@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A8C6A499-0DAF-4FFD-887A-3D3F6C27B347",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA7C3ED6-4C53-47BB-A639-2C781F9D9F31",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "199FFD26-4A99-4ED8-A374-4EEB4C31C174",
+    "height": 77,
+    "width": 77,
+    "x": 29.75,
+    "y": 29.75
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Line/Device/Car",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16FE0498-F17B-48D8-A953-30E8C416C25D",
+      "overrideName": "9719280A-6ABB-458A-B688-D6D212026530_layerStyle",
+      "value": "889D344A-3613-4D46-A508-291E6E2D42BB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86308C47-0A58-4E8C-A6C4-9268A0F85D08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9E54BB0C-2228-4DD6-A851-D90DFA32BAC5",
+  "verticalSpacing": 0
+}

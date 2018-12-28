@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DBA8E97-71C2-42F2-B392-4C287C6484D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9DD362C5-ACDC-45AF-94A3-092BF9E131A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D545C0A8-13E8-42C6-BA30-1FD1E32FC92A",
+    "height": 16,
+    "width": 16,
+    "x": 827,
+    "y": 314
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Ingogas/Line/phone",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38B7ACF3-2240-4092-8BA2-1D25936BFD88",
+      "overrideName": "2CCE3EDE-A56A-4ED1-A5F7-85C1501C42DF_layerStyle",
+      "value": "1897C4B8-29AF-4B7B-A7FC-3D9706E097C1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "113B0B3B-BFC7-405B-9881-8D36F9F62079",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "778542BB-9DF2-4455-99F9-17E628515A1E",
+  "verticalSpacing": 0
+}

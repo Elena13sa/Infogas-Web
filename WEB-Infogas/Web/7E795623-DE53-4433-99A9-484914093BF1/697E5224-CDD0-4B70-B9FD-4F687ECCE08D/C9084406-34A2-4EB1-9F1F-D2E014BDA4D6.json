@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9084406-34A2-4EB1-9F1F-D2E014BDA4D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC8B5A09-28EF-47E7-B433-374670A7D377",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8307087C-A459-4E3D-B6D1-6649267330C7",
+    "height": 82,
+    "width": 455,
+    "x": 106,
+    "y": 63.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Infogas/Links",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC62B071-FC9C-4859-88C0-11341C6A2486",
+      "overrideName": "DF7ACA5C-3E71-4B48-BD61-D3B15D502B8B/55494709-25A3-4693-A70B-DF6EFA7F5901_layerStyle",
+      "value": "01F85D78-3900-41EE-A3FF-DFAA848DB1E7"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB1C9DF3-BDE8-466B-8B69-7317956C72C6",
+      "overrideName": "5B2890BB-F9A1-4EC4-838A-4DB39F8826EA_stringValue",
+      "value": "Encuentra el taller más cercano a ti."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B047B0C1-5929-4E9B-AF5B-618B4C3CA756",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3CA76B29-C78A-4D93-BD9E-27B6AA6201CF",
+  "verticalSpacing": 0
+}

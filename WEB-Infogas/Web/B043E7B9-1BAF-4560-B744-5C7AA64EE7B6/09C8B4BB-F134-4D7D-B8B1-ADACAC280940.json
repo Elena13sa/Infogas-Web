@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "09C8B4BB-F134-4D7D-B8B1-ADACAC280940",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B28DB3AC-FAA1-4DA7-A6D5-D3614A2A53C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63228EFF-5772-4518-BA13-DF14E3D442BE",
+    "height": 68,
+    "width": 488,
+    "x": 476,
+    "y": 240
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button to download PDF Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C3C1188-6772-41F8-8EF6-FF0E31213844",
+      "overrideName": "9B9999C4-A1DE-48AA-BE55-CEE0C3D828B1_stringValue",
+      "value": "Lista de talleres de conversión"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CA14038-3BBE-450A-B4F7-44789D0A80B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F78A0443-2E7F-458B-A61F-24C0CF2E456B",
+  "verticalSpacing": 0
+}

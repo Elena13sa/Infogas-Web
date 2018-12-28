@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "141628E8-A52A-4BEC-90E8-F6528A530872",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2756CF20-DC02-4FE0-AB71-A77F3227C871",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE83734B-7DA3-44F9-8C1A-242F3F951BD0",
+    "height": 129,
+    "width": 400,
+    "x": 0,
+    "y": 678
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Control/Search Entity/Result/Grifo Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95839F64-613B-4A93-A0D0-7EDA8B3FF017",
+      "overrideName": "FD9D5BA9-FDF5-4A5B-9A6A-77AAC864D819_stringValue",
+      "value": "NANITA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DD3AE66-9536-47C9-BB21-2459D8968559",
+      "overrideName": "ADCD786F-1A26-4BBA-9946-DA4A06D026B6_stringValue",
+      "value": "Av. Néstor Gambetta Km. 18.26 (antes ..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2C60192-52E1-4648-A29F-EA9897ECAB2D",
+      "overrideName": "1938177B-E6AD-4D51-A976-8C96027C8526_stringValue",
+      "value": "Callao"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B77CB4F-8BB3-47FC-AB0D-F5E9FA1EBD2C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC44C037-289E-421B-B09C-B5F8ED6A4F4A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "24FA2F2B-8C7B-4941-B47D-9DA46D9DC1B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "968238A5-034E-4BC4-8F9D-F968B2BCF977",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B6DC1D5-6A27-4C73-AEDA-0B2D183D3F73",
+    "height": 204,
+    "width": 195,
+    "x": 813,
+    "y": 632
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8844CEB3-4CBA-4840-9301-57C40C40B942"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD8D8001-BBB3-4C21-AFA5-0CD4B35A4F1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF351955-00D7-4183-88F9-1FCDEC11ACF1"
+    }
+  ],
+  "name": "Grifos normales",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "110EF414-9138-4EA8-A3BF-3EFA5C762F82",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

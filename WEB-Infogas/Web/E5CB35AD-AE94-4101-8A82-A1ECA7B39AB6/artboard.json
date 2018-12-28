@@ -1,0 +1,174 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5CB35AD-AE94-4101-8A82-A1ECA7B39AB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C2C2B58-B702-4A37-91C7-834CA61A8A1C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B1B7CB7-0083-43AF-A930-5A1431EE149A",
+    "height": 1705,
+    "width": 1440,
+    "x": -1188,
+    "y": 23344
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "6A6F6BBF-9541-49BA-92F8-C57655B2B5CA",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "060855B5-F4F7-45FF-9036-6E0010C71C46",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "79048BDA-25FC-41A6-94D7-C36676794FBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "846AF7B8-854D-42E1-A641-CF8887E95B7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32299237-05D8-4A53-A7DC-5E7B4CD1A6CD"
+    },
+    {
+      "class": "text",
+      "id": "24D39679-5EA6-4A45-8A47-9603070194DA"
+    },
+    {
+      "class": "text",
+      "id": "01C19EC6-CADE-47E3-8C8C-015A6F30A0C0"
+    },
+    {
+      "class": "text",
+      "id": "8500B5C7-B27B-4977-91F1-E1D7BA4191B8"
+    },
+    {
+      "class": "text",
+      "id": "ED810059-F3DC-43CE-B921-7C4F82A08A86"
+    },
+    {
+      "class": "text",
+      "id": "18692592-7BDB-4C3C-BDC9-29F640642EE6"
+    },
+    {
+      "class": "text",
+      "id": "8C15DD2B-98B4-472F-9706-2A982CC77404"
+    },
+    {
+      "class": "group",
+      "id": "1FDD6FE8-759F-4813-8A73-FF01431FF335"
+    },
+    {
+      "class": "group",
+      "id": "64C062CE-77F0-4740-AD62-110271282DD6"
+    },
+    {
+      "class": "group",
+      "id": "487B0B06-22D5-4129-B436-32ED60A2BFD9"
+    },
+    {
+      "class": "group",
+      "id": "5B83846F-8849-4737-8A66-A94CBA1D9071"
+    },
+    {
+      "class": "group",
+      "id": "A760F9E9-A4E8-4004-837A-460164382AE3"
+    },
+    {
+      "class": "group",
+      "id": "608681B4-1C71-481E-B61F-855E31542299"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 55,
+    "do_objectID": "9B6A01EA-0DBE-4990-A1C4-50CFDB298E2D",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 51,
+    "guttersOutside": true,
+    "horizontalOffset": 84,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1272
+  },
+  "name": "4.3 Servicio Financiero",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D71EBBB-0159-46B7-A6E2-F27CDFC38901",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6D5CB549-584E-4D6C-A917-45541C11984D",
+    "guides": [
+    ]
+  }
+}

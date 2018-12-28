@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F17880A3-6C33-4EBE-9185-5BB070453D69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70DF9627-5C5A-4766-A873-F1FEA03E1BD5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "332F44E0-EDB7-4B7A-82D1-E2DA3588D0BF",
+    "height": 144,
+    "width": 144,
+    "x": 670,
+    "y": 661
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Line/Chart/Bars",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B056704A-B172-439F-B26C-FFBAAD18ED9F",
+      "overrideName": "96F1B570-42C4-4C7A-BC3F-E0BB07F11864_layerStyle",
+      "value": "ACCBFB4E-668C-4D6E-8FF1-A1E5FFF666A5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2617FE2C-66AC-453F-8B6F-E502F30E61C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8AB131D2-22FB-4516-91BB-D33B27744BBD",
+  "verticalSpacing": 0
+}

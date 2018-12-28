@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8097AF6-0A42-4CAC-892F-9B7283538587",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BAB29DDD-71E8-4FF0-B57B-DABB4D31D92C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D47894E9-C7E4-4386-AFAC-A98FA5A99B9E",
+    "height": 68,
+    "width": 488,
+    "x": 463,
+    "y": 240
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button to download PDF Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C3C1188-6772-41F8-8EF6-FF0E31213844",
+      "overrideName": "9B9999C4-A1DE-48AA-BE55-CEE0C3D828B1_stringValue",
+      "value": "Sistema de Integrado de Transportes"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "779A78C2-005E-4335-AF84-52A178ED2BA8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F78A0443-2E7F-458B-A61F-24C0CF2E456B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,141 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "78671DCD-7E3F-4E90-943C-34E3FAB8554C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41D0104C-B0D6-4A79-A6C1-3053A33C6184",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFE92EB3-04BE-46CD-8A71-DADE2C8694CD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8A7A500-D989-4CD6-882A-F3EB3705131E",
+    "height": 1279,
+    "width": 1440,
+    "x": 69,
+    "y": 29741
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "678DFB40-45AA-4A4B-844A-01A3744CF1CD",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7B3F9804-2C11-4559-AACC-1FB9C1382FDE",
+    "guides": [
+      110,
+      1330
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D04ED5BC-36CA-4B0B-BCC2-A84ACA267B98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B76324DF-AB4B-4C24-B41F-2D79AB6411FE"
+    },
+    {
+      "class": "rectangle",
+      "id": "A4B5DD22-5C2F-405D-AF2D-481D7AF06180"
+    },
+    {
+      "class": "group",
+      "id": "C42B3EA9-58FD-449E-BCFA-D1A17C40269D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56F758A5-E3F2-41E8-9BAA-9F5F58BF258F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "112DEC8F-5A44-4A5A-B06F-1047A4EEA96D"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 55,
+    "do_objectID": "4B31794B-5ACB-4CC7-82DA-9C2728B46D76",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 51,
+    "guttersOutside": true,
+    "horizontalOffset": 84,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1272
+  },
+  "name": "6.1.4 Talleres - Por nombre o ubicacion - completo",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE36C621-A7D7-42A9-AD4B-A72AB29F7A1D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A0A950BA-D52A-4137-B4C4-4A3A07BB7BD4",
+    "guides": [
+    ]
+  }
+}
